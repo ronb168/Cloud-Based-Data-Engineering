@@ -1,4 +1,4 @@
-# Cloud-Based-Data-Engineering
+# Cloud Based Data Engineering
 
 ### The project includes two big data frameworks: Spark and Hadoop.
 
